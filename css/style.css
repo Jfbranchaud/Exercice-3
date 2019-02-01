@@ -33,7 +33,7 @@ body {
 }
 
 .wrapper {
-  background-color: #fff;
+  background-color: darkolivegreen;
   color: #444;
 }
 
@@ -63,7 +63,7 @@ body {
 }
 
 .box {
-  background-color: darkolivegreen;
+  background-color: #444;
   color: black;
   border-radius: 10px;
   padding: 10px;
